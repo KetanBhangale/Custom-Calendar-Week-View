@@ -8,7 +8,7 @@ Developed using Kotlin. Features used:
 3. View Binding
 4. Date and time conversion routines.
 
-Screenshots:
+App Screenshot:
 
 <div align="center">
     <img src="screenshots/1.jpg" width="400px" </img>
